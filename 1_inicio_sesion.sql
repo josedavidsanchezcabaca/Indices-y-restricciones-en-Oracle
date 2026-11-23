@@ -1,0 +1,1 @@
+CONNECT hr/admin***@localhost:1521/xepdb1s
